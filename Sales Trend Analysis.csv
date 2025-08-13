@@ -1,0 +1,13 @@
+order_year,order_month,month_name,total_revenue,order_volume
+2024,1,January,11943.90,17
+2024,2,February,14066.75,22
+2024,3,March,10322.95,17
+2024,4,April,11409.25,17
+2024,5,May,13216.20,18
+2024,6,June,4454.80,10
+2024,7,July,7222.75,12
+2024,8,August,3429.20,6
+2024,9,September,8069.00,16
+2024,10,October,10727.75,15
+2024,11,November,10356.05,16
+2024,12,December,5611.15,8
